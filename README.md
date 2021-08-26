@@ -47,5 +47,5 @@ Box-shadow explanation on MDN.
 ## Author
 
 - Website - [efs0-cod3](https://github.com/efs0-cod3/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/efs0-cod3)
+- Frontend Mentor - [@efs0](https://www.frontendmentor.io/profile/efs0-cod3)
 - Twitter - [@efs0_code](https://www.twitter.com/efs0_code)
