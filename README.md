@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/third-challenge-HvS0BoNS3)
-- Live Site URL: [Add live site URL here](https://efs0-cod3.github.io/order-sumary/)
+- Solution URL: [Solution @FrontEndMentors](https://www.frontendmentor.io/solutions/third-challenge-HvS0BoNS3)
+- Live Site URL: [Live Site](https://efs0-cod3.github.io/order-sumary/)
 
 ## My process
 
